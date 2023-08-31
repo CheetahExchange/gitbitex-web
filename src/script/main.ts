@@ -22,7 +22,7 @@ import { IconCertComponent } from './component/icon/cert/cert';
 import { NavbarHomeComponent } from './component/header/home/home';
 import { AccountForgotPage } from './page/account/forgot/forgot';
 import { ChangePasswordModalComponent } from './component/modal/change-password/change-password';
-import { PaginationComponent } from './component/Pagination/Pagination';
+import { PaginationComponent } from './component/pagination/pagination';
 import { OrderPanelComponent } from './component/panel/order/order';
 import { SelectComponent } from './component/select/select';
 import { IconHamburgerComponent } from './component/icon/hamburger/hamburger';
