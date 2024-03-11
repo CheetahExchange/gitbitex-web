@@ -24,7 +24,7 @@ static SOCKET_SERVER = 'wss://gitbitex.com:8080/ws';
   ```
 * Install npm & nodejs
   ```
-  nvm i 11.15.0
+  nvm install 11.15.0
   ```
 * Use nodejs 11.15.0
   ```
